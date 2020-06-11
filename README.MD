@@ -26,6 +26,5 @@ The project template includes one Jupyter Notebook file, in which:
 - you have been provided queries that you will need to model your data tables for
 - you will load the data into tables you create in Apache Cassandra and run your queries
 
-### Project Steps
-Below are steps you can follow to complete each component of this project.
-![p2 ](file:///C:\Users\Priya\OneDrive\Desktop\1.1.png)
+![image](https://user-images.githubusercontent.com/64914145/84393460-387b8380-ac19-11ea-9bba-687b166ea39b.png)
+
